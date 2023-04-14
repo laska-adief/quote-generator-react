@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quote-generator-react/static/css/main.62cb332c.css",
+    "main.js": "/quote-generator-react/static/js/main.d411ce9f.js",
+    "static/media/bg.jpg": "/quote-generator-react/static/media/bg.9c7569143d4ee81e0a2d.jpg",
+    "index.html": "/quote-generator-react/index.html",
+    "main.62cb332c.css.map": "/quote-generator-react/static/css/main.62cb332c.css.map",
+    "main.d411ce9f.js.map": "/quote-generator-react/static/js/main.d411ce9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62cb332c.css",
+    "static/js/main.d411ce9f.js"
+  ]
+}
